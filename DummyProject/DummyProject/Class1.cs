@@ -4,7 +4,11 @@
     {
         private int Add(int a, int b)
         { 
-            return a + b; 
+            return a + b;
+        }
+        private int Subtract(int a, int b)
+        {
+            return a - b;
         }
     }
 }
