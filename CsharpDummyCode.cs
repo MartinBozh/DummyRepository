@@ -47,5 +47,10 @@ class Program
             Random random = new Random();
             return random.Next(min, max);
         }
+		
+		static int GetRndNum (int rndNum)
+		{
+			Console.WriteLine(rndNum);
+		}
     }
 }
