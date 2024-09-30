@@ -21,13 +21,5 @@
         {
             return a / b;
         }
-        private int Divide2(int a, int b)
-        {
-            return a / b;
-        }
-        private int Divide3(int a, int b)
-        {
-            return a / b;
-        }
     }
 }
