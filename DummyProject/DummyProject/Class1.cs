@@ -25,5 +25,9 @@
         {
             return a / b;
         }
+        private int Divide3(int a, int b)
+        {
+            return a / b;
+        }
     }
 }
